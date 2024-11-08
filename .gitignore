@@ -238,3 +238,6 @@ $RECYCLE.BIN/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Ignore warnings.log
+warnings.log
